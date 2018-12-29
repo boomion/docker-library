@@ -1,2 +1,2 @@
-FROM gcr.io/google_samples/k8szk:v1
+FROM gcr.io/google_samples/k8szk
 MAINTAINER boom <changbaomuboom@gmail.com>
